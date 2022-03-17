@@ -1,0 +1,60 @@
+/**
+ * Write a description of class main here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+
+import java.util.Scanner;
+public class main
+{
+    // instance variables - replace the example below with your own
+    
+    public static void main(String args[]){
+        
+        Scanner Myscanner = new Scanner(System.in);
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+    private int x;
+
+    /**
+     * Constructor for objects of class main
+     */
+    public main()
+    {
+        // initialise instance variables
+        
+        Scanner Myscanner = new Scanner(System.in);
+        
+        String[] names= {"Tim", "Jack", "John", "Tommy"}; 
+        
+        System.out.println("What is your number");
+        
+        System.out.println("It will show your name if your number is correct!!"); 
+        int number = ;
+        x = number. nextInt();
+        
+        
+        
+        
+    }
+
+    /**
+     * An example of a method - replace this comment with your own
+     *
+     * @param  y  a sample parameter for a method
+     * @return    the sum of x and y
+     */
+    public int sampleMethod(int y)
+    {
+        // put your code here
+        return x + y;
+    }
+}
