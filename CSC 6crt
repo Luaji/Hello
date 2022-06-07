@@ -1,0 +1,44 @@
+
+/**
+ * Write a description of class HEE here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+import java.util.Scanner;
+import java.util.Queue;
+import java.util.LinkedList;
+
+public class Hee
+{
+    public static void main(String[] args){
+
+        int StudentQueue = 0;
+        Hee current = this.front; 
+
+    }
+    private int x;
+
+    /**
+     * Constructor for objects of class HEE
+     */
+    public Hee()
+    {
+        // initialise instance variables
+        String people[][] = new String[3][20];
+
+        x = 0;
+    }
+
+    /**
+     * An example of a method - replace this comment with your own
+     *
+     * @param  y  a sample parameter for a method
+     * @return    the sum of x and y
+     */
+    public int sampleMethod(int y)
+    {
+        // put your code here
+        return x + y;
+    }
+}
